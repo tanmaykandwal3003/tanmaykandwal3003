@@ -12,23 +12,44 @@
 
 ## 🧠 About Me
 
-```python
-class TanmayKandwal:
-    def __init__(self):
-        self.name        = "Tanmay Kandwal"
-        self.degree      = "B.Tech – AI, ML & Data Science"
-        self.year        = "3rd Year"
-        self.interests   = ["Machine Learning", "Deep Learning", "Data Science", "NLP"]
-        self.currently   = "Building cool ML projects & exploring LLMs"
-        self.looking_for = "Internships & Research Collaborations"
-        self.fun_fact    = "I debug with print() and I'm not ashamed 😄"
+<div align="center">
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>👨‍💻 Who Am I?</h3>
+      <p>
+        Hey! I'm <strong>Tanmay Kandwal</strong>, a passionate <strong>3rd Year B.Tech student</strong> specializing in <strong>Artificial Intelligence, Machine Learning & Data Science</strong>.
+        I love turning raw data into meaningful insights and building intelligent systems that actually solve problems.
+      </p>
+      <p>
+        When I'm not training models, you'll find me exploring new research papers, contributing to projects, or obsessing over a stubborn bug 🐛
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>⚡ Quick Facts</h3>
+      <ul>
+        <li>🎓 &nbsp;<strong>Degree:</strong> B.Tech – AI, ML & Data Science</li>
+        <li>📅 &nbsp;<strong>Year:</strong> 3rd Year</li>
+        <li>🔍 &nbsp;<strong>Focus:</strong> ML · Deep Learning · NLP · Data Science</li>
+        <li>🌱 &nbsp;<strong>Learning:</strong> LLMs, Transformers & MLOps</li>
+        <li>🤝 &nbsp;<strong>Open to:</strong> Internships & Research Collabs</li>
+        <li>💬 &nbsp;<strong>Ask me about:</strong> Python, ML, Data Analysis</li>
+        <li>⚡ &nbsp;<strong>Fun fact:</strong> I tune hyperparameters for fun 😄</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-me = TanmayKandwal()
-me.say_hi()
-```
+<br/>
+
+<img src="https://img.shields.io/badge/🎯%20Goal-Build%20Impactful%20AI%20Solutions-6AD3F7?style=for-the-badge&labelColor=1a1b27" />
+&nbsp;
+<img src="https://img.shields.io/badge/📍%20Status-Open%20to%20Opportunities-4CAF50?style=for-the-badge&labelColor=1a1b27" />
+&nbsp;
+<img src="https://img.shields.io/badge/🧪%20Passion-Data%20%26%20Intelligence-FF6B6B?style=for-the-badge&labelColor=1a1b27" />
+
+</div>
 
 ---
 
@@ -48,7 +69,7 @@ me.say_hi()
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
